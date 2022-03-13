@@ -2,7 +2,8 @@
   "headers": {
     "/*": {
       "X-Author": "tantarin",
-      "Access-Control-Allow-Origin": "*"
+      "Access-Control-Allow-Origin": "*",
+       "Content-type": "application/json; charset=utf-8"
     }
   }
    "routes": {
