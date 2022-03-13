@@ -8,6 +8,7 @@
   }
    "routes": {
     "/*.html": "index.html",
-    "/login/*.html": "login.html"
+    "/login/*.html": "index.html",
+    "/sample/*.html": "sample.json"
   }
 }
