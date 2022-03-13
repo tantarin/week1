@@ -1,5 +1,6 @@
 
 function task(x) {
+  this.x = x*x;
   return x*this.x;
 }
     
