@@ -1,0 +1,7 @@
+p = new Promise(function(resolve, reject) {
+    if (x<18) {
+        resolve("Yes");
+      } else {
+        reject("no");
+      }
+})
